@@ -1,5 +1,5 @@
 # MiniGames
-Repository of small mini-games
+Repository of small mini-games coded within java
 
 'Finished' Works:
 
