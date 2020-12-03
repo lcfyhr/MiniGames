@@ -9,6 +9,8 @@ Mario Game: Jump around as Mario and collect all the coins, avoid the Bullet Bil
 
 Snake: Classic snake, move around as a slithery snake and stay alive! [Python]
 
+Mouse Controller: to be used in Club Penguin Rewritten, will allow you to move your Penguin around and mine to get coins automatically! [Python]
+
 
 Works in Progress:
 
